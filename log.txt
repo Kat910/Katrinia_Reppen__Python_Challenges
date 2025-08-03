@@ -4,3 +4,4 @@
 [2025-08-03 13:10:15.725617] I am testing the close of the file
 [2025-08-%d 01:08] I tried to format the timestamo
 [2025-08-03 01:08] Whelp had to fix that one.  
+[2025-08-03 02:08] added the close file 
