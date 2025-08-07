@@ -1,0 +1,1 @@
+This is an in'put file for testing code.  This is an input file for testing code.  It will c.ount words and create an output file.  The output file will contain the word count for the input file. This will erase punctuation.
